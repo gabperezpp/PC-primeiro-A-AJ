@@ -4,6 +4,6 @@
 <meta charset = "UTF - 8">
 <h1>Gab livros</h1>
 <html>  
-<p> Gaby livrarias <3 </p>
+<p>Gaby livrarias</p>
 <p3> livros novos e usados </p3>
 <html>
